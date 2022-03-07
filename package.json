@@ -1,10 +1,9 @@
 {
   "name": "keeper-app",
-  "homepage": "https://jacquestill.github.io/keeper-app/public",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "public/index.html",
+  "main": "src/index.js",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
