@@ -10,7 +10,7 @@ function Note(props) {
           props.onDelete(props.id);
         }}
       >
-        DELETE
+        Delete
       </button>
     </div>
   );
